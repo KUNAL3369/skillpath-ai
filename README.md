@@ -103,7 +103,6 @@ User can export roadmap to PDF or track progress
 
 ## 📸 Screenshots
 
-*(Add screenshots to the `screenshots` folder to display them here)*
 
 ### 📊 Dashboard
 ![Dashboard](./screenshots/dashboard.png)
